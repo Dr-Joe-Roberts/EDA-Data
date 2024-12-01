@@ -14,3 +14,9 @@
 [satellites.csv](satellites.csv)
 
 [kurudata.csv](kurudata.csv)
+
+[intro_data_1.csv](intro_data_1.csv)
+
+[intro_data_2.csv](intro_data_2.csv)
+
+[intro_data_3.csv](intro_data_3.csv)
